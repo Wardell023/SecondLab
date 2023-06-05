@@ -4,7 +4,7 @@ This repository contains the labs for ICS 342 at [Metropolitan State University]
 
 ## Lab 1
 
-Lab 1 is not part of this repository as it involves work to set up your Android Studio development environment and
+Lab 1 is not part of this repository as it involves work to set up your Android Studio git gidevelopment environment and
 creating the project on GitHub for the application you develop during the semester.
 
 ## Lab 2
